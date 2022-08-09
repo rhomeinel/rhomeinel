@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+and+if+its;+not++I'll+say+it+again+" alt="Typing SVG" /></a>
+</p>
+
 ## ️ Languages and Tools
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,mysql,py,vim,md,git,bash,vscode&theme=light)
