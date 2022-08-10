@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rhomeinel&theme=react)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhomeinel&layout=compact&theme=dark)](https://github.com/rhomeinel/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhomeinel&layout=compact&theme=dark)](https://github.com/rhomeinel/github-readme-stats)
 
