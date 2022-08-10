@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rhomeinel&theme=react)  
 
-<img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhomeinel&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css&theme=gruvbox&langs_count=10" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhomeinel)](https://github.com/rhomeinel/github-readme-stats)
 
