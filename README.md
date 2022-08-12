@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Rhomeinel
 
-- 🔭 I’m currently working on AirBnB Clone with Alx
-- 🌱 I’m currently learning Cloud Engineering with AltSchool
+- 🔭 I’m currently working on AirBnB Clone with ALX
+- 👯 I’m looking to collaborate on Open Source Project
+- 🌱 I’m currently learning Cloud Engineering with AltSchool Africa
+- 📫 How to reach me: rhomeinel@gmail
 
 <!--
 **rhomeinel/rhomeinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
