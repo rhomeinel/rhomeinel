@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Rhomeinel
 
 - 🔭 I’m currently working on AirBnB Clone with ALX
-- 👯 I’m looking to collaborate on Open Source Project
+- 👯 I’m looking to collaborate on Open Source Projects
 - 🌱 I’m currently learning Cloud Engineering with AltSchool Africa
 - 📫 How to reach me: rhomeinel@gmail.com
 
