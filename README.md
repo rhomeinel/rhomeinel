@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![skills](https://skillicons.dev/icons?i=c,html,css,js,mysql,py,vim,md,git,bash,vscode&theme=light)
 
 ### Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rhomeinel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhoda-nelson-050274a8/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/rhomeinel) ![Profile views](https://gpvc.arturio.dev/rhomeinel)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rhomeinel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhoda-nelson-050274a8/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCVW3KPKFkVWvsNZ7rGwXrow) ![Profile views](https://gpvc.arturio.dev/rhomeinel)
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=rhomeinel&theme=radical)](https://github.com/rhomeinel/github-readme-stats)
 
